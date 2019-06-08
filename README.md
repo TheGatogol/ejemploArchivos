@@ -8,3 +8,5 @@
 ![banner04](https://user-images.githubusercontent.com/23465376/58768676-96847e00-8564-11e9-84e3-6ad86bb35e4d.jpg)
 ![loginF](https://user-images.githubusercontent.com/23465376/59142331-2ae64a80-8982-11e9-8cfb-c3559f7ba35c.jpg)
 ![descarga](https://user-images.githubusercontent.com/23465376/59142335-45b8bf00-8982-11e9-8bc1-62dc5193a478.jpg)
+![generatedtext](https://user-images.githubusercontent.com/23465376/59142461-4baf9f80-8984-11e9-8abd-a7919b60a115.png)
+
