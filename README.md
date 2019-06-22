@@ -10,4 +10,5 @@
 ![descarga](https://user-images.githubusercontent.com/23465376/59142335-45b8bf00-8982-11e9-8bc1-62dc5193a478.jpg)
 ![generatedtext](https://user-images.githubusercontent.com/23465376/59142461-4baf9f80-8984-11e9-8abd-a7919b60a115.png)
 ![fondo](https://user-images.githubusercontent.com/23465376/59964594-4ac05700-94c8-11e9-85ea-671ed5f9f601.jpg)
+![fondo](https://user-images.githubusercontent.com/23465376/59964726-1ea5d580-94ca-11e9-97e9-b296f1864405.jpg)
 
