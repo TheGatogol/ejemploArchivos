@@ -17,3 +17,4 @@
 ![unitecEmblema](https://user-images.githubusercontent.com/23465376/59977889-8af10980-959c-11e9-9653-ee348cd2bf8c.png)
 ![unitecLogo](https://user-images.githubusercontent.com/23465376/59971455-02de1600-9542-11e9-9cbd-faf5c2c1c842.png)
 ![fondo1](https://user-images.githubusercontent.com/23465376/59984586-5b202100-95f1-11e9-9b0d-eaa50cfab25b.jpg)
+![fondo2](https://user-images.githubusercontent.com/23465376/59984601-71c67800-95f1-11e9-878e-767748b8bfa8.jpg)
