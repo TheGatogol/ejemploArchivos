@@ -21,4 +21,6 @@
 ![fondo-login](https://user-images.githubusercontent.com/23465376/61599101-10db9100-abeb-11e9-9b20-b27526f34b8d.jpg)
 ![barberia](https://user-images.githubusercontent.com/23465376/62552595-82dee780-b833-11e9-9e89-9c8faf76d2be.png)
 ![barberia-LOGO](https://user-images.githubusercontent.com/23465376/62554161-3cd75300-b836-11e9-81bb-f9013be4c228.png)
+![fondo_lateral](https://user-images.githubusercontent.com/23465376/63456789-528f6f80-c415-11e9-9954-fb2d180da0af.jpg)
+
 
