@@ -23,6 +23,7 @@
 ![barberia-LOGO](https://user-images.githubusercontent.com/23465376/62554161-3cd75300-b836-11e9-81bb-f9013be4c228.png)
 ![fondo_lateral](https://user-images.githubusercontent.com/23465376/63456789-528f6f80-c415-11e9-9954-fb2d180da0af.jpg)
 ![proteina](https://user-images.githubusercontent.com/23465376/67587915-6eb3d380-f71a-11e9-81f9-2b3c7c9be3c7.png)
+![logoLOT](https://user-images.githubusercontent.com/62676722/77594779-0af62800-6ebd-11ea-8e4c-c819236a8db6.png)
 
 
 
