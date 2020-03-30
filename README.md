@@ -25,6 +25,8 @@
 ![proteina](https://user-images.githubusercontent.com/23465376/67587915-6eb3d380-f71a-11e9-81f9-2b3c7c9be3c7.png)
 ![logoLOT](https://user-images.githubusercontent.com/62676722/77594779-0af62800-6ebd-11ea-8e4c-c819236a8db6.png)
 ![1](https://user-images.githubusercontent.com/23465376/77879823-7a02b200-7218-11ea-8ad1-764586713273.jpg)
+![2](https://user-images.githubusercontent.com/23465376/77879913-b209f500-7218-11ea-8d46-d2ee19fa7591.jpg)
+![3](https://user-images.githubusercontent.com/23465376/77879921-b7673f80-7218-11ea-924e-b583bb267e12.jpg)
 
 
 
